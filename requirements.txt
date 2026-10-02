@@ -1,2 +1,5 @@
 streamlit
-openai
+pandas
+numpy
+scipy
+requests
